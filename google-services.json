@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856987775648",
+    "project_id": "react-native-tesla",
+    "storage_bucket": "react-native-tesla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856987775648:android:e4e4ea132b01fad6dd8fc5",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-NWcwn8qs57NjS8xQ5nO216vh24duOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
